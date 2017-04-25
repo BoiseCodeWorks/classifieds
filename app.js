@@ -54,3 +54,26 @@ function createCar(e) {
 
 
 drawCars(cars)
+
+
+
+
+
+
+// requirements
+/**
+ * 5 years experience, high school diploma, must like cats
+ * 
+ * 
+ * {
+ *  requirements: [
+ *    "5 years experience",
+ *    "high school diploma",
+ *    "must like cats"
+ *  ] 
+ * }
+ * 
+ * given a string seperate the string into an array base on the commas in the string
+ * 
+ * 
+ */
